@@ -218,15 +218,6 @@ special instructions.
 {% endif %}
 
 {% comment %}
-LAND ACKNOWLEDGMENT
-{% endcomment %}
-<p id="land-acknowledgment">
-  <strong>Land Acknowledgement:</strong> 
-  The workshop leaders acknowledge the Gabrielino/Tongva peoples as the traditional land caretakers of Tovaangar (the Los Angeles basin and So. Channel Islands). 
-  As researchers at a land grant institution, we pay our respects to the Honuukvetam (Ancestors), ‘Ahiihirom (Elders), and ‘Eyoohiinkem (our relatives/relations) past, present, and emerging
-</p>
-
-{% comment %}
 CONTACT EMAIL ADDRESS
 
 Display the contact email address set in the configuration file.
@@ -275,6 +266,15 @@ Edit the text to match who can attend the workshop. For instance:
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
     This workshop is open to UCLA affiliates, with priority registration given to members of the EEB department. We will open registration to non-EEB learners if space permits.
+</p>
+
+{% comment %}
+LAND ACKNOWLEDGMENT
+{% endcomment %}
+<p id="land-acknowledgment">
+  <strong>Land Acknowledgement:</strong> 
+  The workshop leaders acknowledge the Gabrielino/Tongva peoples as the traditional land caretakers of Tovaangar (the Los Angeles basin and So. Channel Islands). 
+  As researchers at a land grant institution, we pay our respects to the Honuukvetam (Ancestors), ‘Ahiihirom (Elders), and ‘Eyoohiinkem (our relatives/relations) past, present, and emerging
 </p>
 
 
