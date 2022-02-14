@@ -218,6 +218,15 @@ special instructions.
 {% endif %}
 
 {% comment %}
+LAND ACKNOWLEDGMENT
+{% endcomment %}
+<p id="land-acknowledgment">
+  <strong>Land Acknowledgement:</strong> 
+  The workshop leaders acknowledge the Gabrielino/Tongva peoples as the traditional land caretakers of Tovaangar (the Los Angeles basin and So. Channel Islands). 
+  As researchers at a land grant institution, we pay our respects to the Honuukvetam (Ancestors), ‘Ahiihirom (Elders), and ‘Eyoohiinkem (our relatives/relations) past, present, and emerging
+</p>
+
+{% comment %}
 CONTACT EMAIL ADDRESS
 
 Display the contact email address set in the configuration file.
